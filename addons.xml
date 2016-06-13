@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.rafafilmes.kodi" name="rafafilmes repository" version="0.0.2" provider-name="rafafilmes">
+	<extension point="xbmc.addon.repository" name="rafafilmes Add-on Repository">
+		<info compressed="false">http://raw.github.com/rafafilmes/rafafilmes-kodi-repo/master/addons.xml</info>
+		<checksum>http://raw.github.com/rafafilmes/rafafilmes-kodi-repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/rafafilmes/rafafilmes-kodi-repo/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>rafafilmes Addon</summary>
+		<description>Addon Description</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
